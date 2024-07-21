@@ -1,0 +1,24 @@
+:root {
+    --dark-blue: #201e43;
+    --blue: #134b70;
+    --light-blue: #508c9b;
+    --white: #eeeeee;
+}
+
+body {
+    background-color: darkblue;
+}
+
+#main-content {
+    background: blue;
+    margin: 2% 25%;
+    border: 3px solid lightblue;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.big-title {
+    text-align: center;
+    color: lightblue;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
