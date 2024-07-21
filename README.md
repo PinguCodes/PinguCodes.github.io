@@ -1,2 +1,3 @@
-# pingucodes.github.io
-my websiteee
+# PinguCodes.github.io
+
+Just hosting on Github for now idk
